@@ -610,6 +610,21 @@ echo --* XDA for the knowledge I gained
 pause
 cls
 goto restart
+:emsim
+cls
+cd chotu
+echo Connect your device
+echo Ensure that adb debugging is enabled in your device
+echo If not enable it and Allow your pc to use adb
+PAUSE
+echo Connecting..
+adb devices
+echo Taking superuser rights from your device ..
+su
+setprop persist.radio.multisim.config dsds
+echo Done
+PAUSE
+goto resrart
 :errjava
 cls
 echo Java was not found, you will not be able to sign apks or use apktool
