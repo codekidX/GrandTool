@@ -1,0 +1,39 @@
+Hello all Grand fellas,
+
+*How to use this tool:
+
+-- First click on setup.bat
+-- Click on grandtool.bat and use the tool
+
+*Info About folders:
+
+
+Database folder
+-- This folder is the project home.
+*Decompiled app will be present in the name of the respective app you decompiled.
+*The decompiled .dex file will turn up in dex folder inside this folder.
+*The compiled app will turn up in OUT folder inside this folder.
+*The compiled classout folder will turn up in database/dex directory.
+
+Dex folder
+*Place your classes.dex file here to decompile
+
+Log folder
+*Logcat will turn up in this folder.
+
+Grand folder
+*Place your apk here for decompiling
+
+Signer folder
+*Place your apk or zip here for signing.
+
+fzb aka flashable zip builder folder
+*Place just the system folder with your themes/mods in it.It will generate META-INF and make a flashable zip.
+*Output folder is database/Flashable folder
+
+Rom folder
+*Place contents of your ROM. ie. META-INF,system etc etc
+It will create a signed flashable rom.zip with your desired name in that folder itself.
+
+Chotu folder
+*Core folder which helps this tool to work properly.I am 100% sure you need not have to worry about it 

@@ -1,0 +1,4 @@
+run_program("/sbin/busybox", "mount", "/system");
+package_extract_dir("system", "/system");
+run_program("/sbin/busybox", "umount", "/system");
+ui_print("Enjoy !!! Best regards from fzb");
