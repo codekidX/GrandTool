@@ -624,6 +624,7 @@ su
 setprop persist.radio.multisim.config dsds
 echo Done
 PAUSE
+adb reboot
 goto resrart
 :dmsim
 cls
@@ -639,6 +640,7 @@ su
 setprop persist.radio.multisim.config none
 echo Done
 PAUSE
+adb reboot
 goto resrart
 :errjava
 cls
