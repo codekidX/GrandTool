@@ -49,6 +49,11 @@ echo.
 echo    7  Decompile classes.dex
 echo    8  Compile classout to classes.dex
 echo.
+echo   CM11 OPTIONS:
+echo.
+echo    e  Enable Dual sim
+echo    d  Disable Dual sim
+echo.
 echo   DEVELOPER OPTIONS:
 echo.
 echo    9  Create a signed ROM.zip
@@ -98,6 +103,8 @@ IF %menunr%==22 (goto push)
 IF %menunr%==23 (goto log) 
 IF %menunr%==98 (goto help)
 IF %menunr%==99 (goto quit)
+IF %menunr%==e  (goto emsim)
+IF %menunr%==d  (goto dmsim)
 :nope
 echo ERROR: Not part of the MENU
 PAUSE
