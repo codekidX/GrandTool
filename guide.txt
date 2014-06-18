@@ -37,3 +37,12 @@ It will create a signed flashable rom.zip with your desired name in that folder 
 
 Chotu folder
 *Core folder which helps this tool to work properly.I am 100% sure you need not have to worry about it 
+
+##### Enabling/Disabling Dual-sim in Cm11 based roms with dual sim support
+
+* Ensure that adb is enabled on your device
+* Connect device to PC
+* Run grandtool.bat 
+* Select your option
+* Done
+* Reboot
