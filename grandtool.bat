@@ -620,6 +620,7 @@ PAUSE
 echo Connecting..
 adb devices
 echo Taking superuser rights from your device ..
+adb shell
 su
 setprop persist.radio.multisim.config dsds
 echo Done
@@ -636,6 +637,7 @@ PAUSE
 echo Connecting..
 adb devices
 echo Taking superuser rights from your device ..
+adb shell
 su
 setprop persist.radio.multisim.config none
 echo Done
