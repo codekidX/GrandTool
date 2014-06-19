@@ -614,6 +614,7 @@ echo  -- CM11 by pawitp
 echo  -- Cosmic CM by k2wl
 echo.
 echo.
+msg *echeck: Is your device connected with enabled adb and wish to continue?
 PAUSE
 echo Connecting..
 adb devices
@@ -629,6 +630,7 @@ cd chotu
 echo Connect your device
 echo Ensure that adb debugging is enabled in your device
 echo If not enable it and Allow your pc to use adb
+msg *dcheck: Is your device connected with enabled adb and wish to continue?
 PAUSE
 echo Connecting..
 adb devices
