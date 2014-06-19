@@ -26,7 +26,7 @@ echo ^| Compression-Level: %usrc% ^| Ignore:%tmpv% ^|
 echo -------------------------------------
 cls
 cls
-mode con:cols=80 lines=50
+mode con:cols=80 lines=45
 setLocal EnableDelayedExpansion
 :restart
 COLOR 1F
