@@ -35,19 +35,7 @@ echo 			      Galaxy Grand Tool
 echo                               -by chotu222,                                     
 echo ********************************************************************************
 echo.
-echo   THEMING OPTIONS:
-echo.
-echo    1  Set your current project
-echo    2  Install touchwiz framework
-echo    3  Decompile apk
-echo    4  Compile apk
-echo    5  Sign apk/zip
-echo    6  Set heap size
-echo.
-echo   MODDING OPTIONS:
-echo.
-echo    7  Decompile classes.dex
-echo    8  Compile classout to classes.dex
+echo    0 - MODDING/THEMING OPTIONS 
 echo.
 echo   CM11 OPTIONS:
 echo.
@@ -58,7 +46,6 @@ echo   DEVELOPER OPTIONS:
 echo.
 echo    9  Create a signed ROM.zip
 echo   10  Create a flashable Zip
-echo   11  Build Options
 echo.
 echo   OTHER OPTIONS:
 echo.
@@ -84,17 +71,8 @@ if '%menunr%'=='' (
 cls
 goto :restart
 )
-IF %menunr%==1 (goto curr)
-IF %menunr%==2 (goto xframe)
-IF %menunr%==3 (goto de)
-IF %menunr%==4 (goto comp)
-IF %menunr%==5 (goto sign)
-IF %menunr%==6 (goto heap)
-IF %menunr%==7 (goto dex)
-IF %menunr%==8 (goto compdex)
-IF %menunr%==9 (goto rom)
 IF %menunr%==10 (goto fzip)
-IF %menunr%==11 (goto build)
+IF %menunr%==0 (goto adv)
 IF %menunr%==12 (goto setup)
 IF %menunr%==13 (goto clean)
 IF %menunr%==14 (goto xda)
@@ -551,25 +529,28 @@ echo You can find your zip in your database/Flashable folder.
 PAUSE
 cls
 goto restart
-:build
+:adv
 cls
 COLOR F0
 echo ********************************************************************************
-echo 		       This option is under construction
-echo                           and will be available soon                                              
+echo 		           MODDING/THEMEMIG OPTIONS                                          
 echo.                                                                    
 echo ********************************************************************************
 echo.
 echo.
-echo   1  Set up a Project folder
-echo   2  Later
+echo   THEMING OPTIONS:
 echo.
+echo    1  Set your current project
+echo    2  Install touchwiz framework
+echo    3  Decompile apk
+echo    4  Compile apk
+echo    5  Sign apk/zip
+echo    6  Set heap size
 echo.
+echo   MODDING OPTIONS:
 echo.
-echo.
-echo.
-echo.
-echo.
+echo    7  Decompile classes.dex
+echo    8  Compile classout to classes.dex
 echo.
 echo.
 echo.
@@ -585,7 +566,15 @@ if '%menunr%'=='' (
 cls
 goto build
 )
-IF %menunr%==1 (goto pf)
+IF %menunr%==1 (goto curr)
+IF %menunr%==2 (goto xframe)
+IF %menunr%==3 (goto de)
+IF %menunr%==4 (goto comp)
+IF %menunr%==5 (goto sign)
+IF %menunr%==6 (goto heap)
+IF %menunr%==7 (goto dex)
+IF %menunr%==8 (goto compdex)
+IF %menunr%==9 (goto rom)
 IF %menunr%==x (goto bres)
 IF %menunr%==99 (goto quit)
 :bres
