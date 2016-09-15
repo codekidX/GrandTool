@@ -18,6 +18,24 @@
 			}
 		],
         "cm": [
+        	{
+				"font-name": "SanFransisco",
+				"font-type": "free",
+				"font-preview": "http://i.imgur.com/cJ5kaC8.png",
+				"font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kOHI0T3gxYVJORmM"
+			},
+        	{
+				"font-name": "Lato",
+				"font-type": "free",
+				"font-preview": "http://i.imgur.com/jH1JPYZ.png",
+				"font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kNUdwY2ZEZ0pOa0U"
+			},
+            {
+				"font-name": "Corporate Rounded",
+				"font-type": "free",
+				"font-preview": "http://i.imgur.com/sG9fi5U.png",
+				"font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kRVJHRjdRV1N1ek0"
+			},
             {
 				"font-name": "Roboto Android",
 				"font-type": "free",
