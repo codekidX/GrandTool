@@ -20,16 +20,28 @@
         <link>http://i.imgur.com/UlXp5m0.jpg</link>
         <preview>http://i.imgur.com/UlXp5m0.jpg</preview>
     </wallpaper>
-        <wallpaper id="Tower Green">
+    <wallpaper id="Tower Green">
         <link>http://i.imgur.com/cuu03hM.jpg</link>
         <preview>http://i.imgur.com/cuu03hM.jpg</preview>
     </wallpaper>
-        <wallpaper id="Tower Purple">
+    <wallpaper id="Tower Purple">
         <link>http://i.imgur.com/vPEAhlg.jpg</link>
         <preview>http://i.imgur.com/vPEAhlg.jpg</preview>
     </wallpaper>
-        <wallpaper id="Tower Red">
+    <wallpaper id="Tower Red">
         <link>http://i.imgur.com/CIJpCCe.jpg</link>
         <preview>http://i.imgur.com/CIJpCCe.jpg</preview>
+    </wallpaper>
+    <wallpaper id="Tower Night">
+        <link>http://i.imgur.com/KslnBNP.jpg</link>
+        <preview>http://i.imgur.com/KslnBNP.jpg</preview>
+    </wallpaper>
+    <wallpaper id="Scenery Navy Blue">
+        <link>http://i.imgur.com/pvNclfQ.png</link>
+        <preview>http://i.imgur.com/pvNclfQ.png</preview>
+    </wallpaper>
+    <wallpaper id="Scenery Purple">
+        <link>http://i.imgur.com/jg07AzA.png</link>
+        <preview>http://i.imgur.com/jg07AzA.png</preview>
     </wallpaper>
 </substratum>
