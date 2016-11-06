@@ -1,1 +1,144 @@
-{"fonts": [{"substratum": [{"font-name": "Expansion_Uno", "font-type": "free", "font-preview": "http://i.imgur.com/hRVYwYI.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kdjljTTM4ZnI2YWs"}, {"font-name": "Expansion_XDA10", "font-type": "free", "font-preview": "http://i.imgur.com/5s7T9CF.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kN2x5ME9fXzRpVWc"}, {"font-name": "Expansion_Funky", "font-type": "free", "font-preview": "hello", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kWXlYZkNlbXEzV3M"}], "walls": [{"font-name": "Expansion Walls", "font-type": "free", "font-preview": "http://i.imgur.com/2FPGPj2.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kbWI5QlJKS1pqOVE"}], "cm": [{"font-name": "SanFransisco", "font-type": "free", "font-preview": "http://i.imgur.com/cJ5kaC8.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kOHI0T3gxYVJORmM"}, {"font-name": "Lato", "font-type": "free", "font-preview": "http://i.imgur.com/jH1JPYZ.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kNUdwY2ZEZ0pOa0U"}, {"font-name": "Corporate Rounded", "font-type": "free", "font-preview": "http://i.imgur.com/sG9fi5U.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kRVJHRjdRV1N1ek0"}, {"font-name": "Roboto Android", "font-type": "free", "font-preview": "http://i.imgur.com/bVfMrUq.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kb3lwODdhUlhaTm8"}, {"font-name": "Apple Butter", "font-type": "free", "font-preview": "http://i.imgur.com/nYy7NsS.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kU1VhVEJFYkxnc2c"}, {"font-name": "Bitwise", "font-type": "free", "font-preview": "http://i.imgur.com/9TfVnie.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kTWlvSTFvaTNUM2c"}, {"font-name": "Counter Strike", "font-type": "free", "font-preview": "http://i.imgur.com/z4quISb.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kZkoxTzFiOW9EOVk"}, {"font-name": "Mural Script", "font-type": "free", "font-preview": "http://i.imgur.com/KJpRD4u.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kczl6NEt3emU5ZE0"}, {"font-name": "Helvetica Neue", "font-type": "free", "font-preview": "http://i.imgur.com/g8FPfr3.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kd3NyVVBUWWpsTkk"}, {"font-name": "StuPrintUpright", "font-type": "free", "font-preview": "http://i.imgur.com/fWYvtYV.png", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kNHd4QzlrdGI4TGM"}, {"font-name": "Noteworthy Light", "font-type": "free", "font-preview": "hello", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kazJrR0RxVG0tTHc"}, {"font-name": "Proxima Nova Semibold", "font-type": "free", "font-preview": "hello", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kemJfV0E1dHZwQzA"}, {"font-name": "Rosemary", "font-type": "free", "font-preview": "hello", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kZTd3ZVpzY25xMlk"}, {"font-name": "Papyrus", "font-type": "free", "font-preview": "hello", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kQUJkRkJyVWVvLUk"}, {"font-name": "Roboto Light", "font-type": "free", "font-preview": "hello", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kUHRxWDdNTnh6LWM"}, {"font-name": "Dark One", "font-type": "free", "font-preview": "hello", "font-url": "https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kZWd1a1B2dWJ0d0U"}, {"font-name": "Abel", "font-type": "free", "font-preview": "hello", "font-url": "https://basketbuild.com/uploads/devs/codekidX/Sparky/CMTE/Abel.apk"}, {"font-name": "PrincessSofia", "font-type": "free", "font-preview":"hello", "font-url": "https://basketbuild.com/uploads/devs/codekidX/Sparky/PrincessSofia.apk"}]}]}
+{
+   "fonts":[
+      {
+         "substratum":[
+            {
+               "font-name":"Expansion_Uno",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/hRVYwYI.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kdjljTTM4ZnI2YWs"
+            },
+            {
+               "font-name":"Expansion_XDA10",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/5s7T9CF.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kN2x5ME9fXzRpVWc"
+            },
+            {
+               "font-name":"Expansion_Funky",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kWXlYZkNlbXEzV3M"
+            }
+         ],
+         "walls":[
+            {
+               "font-name":"Expansion Walls",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/2FPGPj2.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kbWI5QlJKS1pqOVE"
+            }
+         ],
+         "cm":[
+            {
+               "font-name":"SanFransisco",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/cJ5kaC8.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kOHI0T3gxYVJORmM"
+            },
+            {
+               "font-name":"Lato",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/jH1JPYZ.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kNUdwY2ZEZ0pOa0U"
+            },
+            {
+               "font-name":"Corporate Rounded",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/sG9fi5U.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kRVJHRjdRV1N1ek0"
+            },
+            {
+               "font-name":"Roboto Android",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/bVfMrUq.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kb3lwODdhUlhaTm8"
+            },
+            {
+               "font-name":"Apple Butter",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/nYy7NsS.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kU1VhVEJFYkxnc2c"
+            },
+            {
+               "font-name":"Bitwise",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/9TfVnie.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kTWlvSTFvaTNUM2c"
+            },
+            {
+               "font-name":"Counter Strike",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/z4quISb.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kZkoxTzFiOW9EOVk"
+            },
+            {
+               "font-name":"Mural Script",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/KJpRD4u.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kczl6NEt3emU5ZE0"
+            },
+            {
+               "font-name":"Helvetica Neue",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/g8FPfr3.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kd3NyVVBUWWpsTkk"
+            },
+            {
+               "font-name":"StuPrintUpright",
+               "font-type":"free",
+               "font-preview":"http://i.imgur.com/fWYvtYV.png",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kNHd4QzlrdGI4TGM"
+            },
+            {
+               "font-name":"Noteworthy Light",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kazJrR0RxVG0tTHc"
+            },
+            {
+               "font-name":"Proxima Nova Semibold",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kemJfV0E1dHZwQzA"
+            },
+            {
+               "font-name":"Rosemary",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kZTd3ZVpzY25xMlk"
+            },
+            {
+               "font-name":"Papyrus",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kQUJkRkJyVWVvLUk"
+            },
+            {
+               "font-name":"Roboto Light",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kUHRxWDdNTnh6LWM"
+            },
+            {
+               "font-name":"Dark One",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://drive.google.com/uc?export=download&id=0B5_7EKjtRH4kZWd1a1B2dWJ0d0U"
+            },
+            {
+               "font-name":"Abel",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://basketbuild.com/uploads/devs/codekidX/Sparky/CMTE/Abel.apk"
+            },
+            {
+               "font-name":"PrincessSofia",
+               "font-type":"free",
+               "font-preview":"hello",
+               "font-url":"https://basketbuild.com/uploads/devs/codekidX/Sparky/PrincessSofia.apk"
+            }
+         ]
+      }
+   ]
+}
